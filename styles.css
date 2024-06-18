@@ -1,0 +1,86 @@
+html{
+    align-items: flex-start;
+    text-justify: auto;
+    text-align: start;
+}
+
+header{
+    font-size: medium;
+    font-weight: 500;
+    display: flex;
+    background-color: black;
+    color: aqua;
+}
+
+#First{
+    display: flex;
+    font-weight: 300;
+    align-content: flex-end;
+    margin: auto;
+}
+
+#Tagline{
+
+    font-size: small;
+    color: blue;
+    display: flex;
+    font-weight: 200;
+}
+
+#Credits{
+
+    color: brown;
+    text-justify: auto;
+justify-content: center;
+}
+
+#Third{
+
+    color: blueviolet;
+    display: flex;
+    margin: auto;
+}
+
+#Fifth{
+     
+    margin: auto;
+    color: chartreuse;
+
+}
+
+#Credits{
+
+    color: aqua;
+    align-content: safe;
+    margin: auto;
+    font-size: medium;
+}
+
+#Second{
+
+    margin: auto;
+    font-weight: 200;
+    font-size: medium;
+    color: aqua;
+}
+
+#Third{
+
+    color: aqua;
+    margin: auto;
+    min-height: auto;
+    width: auto;
+}
+
+#Fourth{
+
+    align-content: baseline;
+    color: aqua;
+    margin: auto;
+    min-height: auto;
+}
+
+
+
+
+
